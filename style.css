@@ -1,0 +1,27 @@
+body{
+    background-color: #E0ECF8;
+    color:#585858;
+    text-align:center;
+}
+
+h1{
+    font-size:40px;
+    margin-top: 200px;
+    color: #424242;
+}
+
+h2{
+    font-size:25px;
+    font-weight: bolder;
+    color: #585858;
+}
+
+
+.link-item{
+    margin-left:10px;
+    margin-right:10px;
+    display: inline-block;
+    color:#01A9DB;
+    text-decoration: none;
+    font-size: 14px;
+}
